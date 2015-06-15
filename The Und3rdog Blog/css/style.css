@@ -1,0 +1,14 @@
+.section1{
+	background: url('../images/theUnderdog.png') no-repeat center center;
+	height: 800px;
+	margin: 0;
+	background-size: cover;
+}
+#section1Content{
+/*	background: rgba(255,355,255,0.2);
+*/	margin: 0 auto;
+	margin-top: 17em;
+	max-width: 24em;	
+	padding: .5em;
+	text-align: center;
+}
