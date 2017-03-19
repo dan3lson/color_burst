@@ -1,0 +1,171 @@
+/* Leksi blue: #1060AF */
+
+a:hover {
+  text-decoration: none;
+}
+a.btn.btn-warning {
+  color: #FFF;
+  text-transform: uppercase;
+}
+body {
+  font-family: monospace;
+}
+#body-edu {
+  background: url("../images/ehsa.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0;
+}
+.bold {
+  font-weight: bold;
+}
+.bubble {
+	background: lightgray;
+	border: 2px solid lightgray;
+	border-radius: 100px;
+	padding: 2px;
+}
+.bubble-green {
+	background: lightgreen;
+	border: 2px solid lightgreen;
+	border-radius: 100px;
+  color: green;
+	padding: 2px;
+}
+.bubble-green i {
+	color: green;
+}
+.bubble-orange {
+	background: orange;
+	border: 2px solid orange;
+	border-radius: 100px;
+  color: white;
+	padding: 2px;
+}
+.bubble-orange i {
+	color: white;
+}
+.center {
+  text-align: center;
+}
+.client-no-pic-female {
+  border: 1px solid lightpink;
+  border-radius: 75px;
+  height: 75px;
+  margin: 0 auto;
+  width: 75px;
+}
+.client-no-pic-male {
+  border: 1px solid lightblue;
+  border-radius: 75px;
+  height: 75px;
+  margin: 0 auto;
+  width: 75px;
+}
+.client-no-pic-male i {
+  color: lightblue;
+  padding-top: 8px;
+}
+.client-no-pic-female i {
+  color: lightpink;
+  padding-top: 8px;
+}
+#danelson-rosa-pic p {
+  margin-bottom: 0;
+}
+.faded-white-section {
+  background: rgba(0, 0, 0, .2);
+  color: #FFF;
+  font-size: 20px;
+  padding: 15px;
+}
+footer {
+	background: lightgray;
+	padding: 2em;
+	padding-bottom: 0;
+  text-align: center;
+}
+footer a {
+  color: inherit;
+}
+footer a:hover, a:active, a:visited {
+  color: inherit;
+	opacity: .5;
+  text-decoration: none;
+}
+#form-container strong {
+  color: dodgerblue;
+  font-family: sans-serif;;
+}
+#hire-me-container {
+  display: none;
+}
+hr {
+  border-color: lightgrey;
+}
+.invalid {
+	border: 2px solid #FF0000;
+}
+.light-gray-section {
+  background: #F5F5F5;
+  padding: 25px;
+}
+.light-gray-section h1, .white-section h1 {
+  margin-bottom: 40px;
+}
+.nav-bar {
+  background: #302723;
+  color: dodgerblue;
+  font-size: 27px;
+  margin-bottom: 0;
+  padding: 15px;
+  text-align: center;
+}
+.nav-bar a {
+  color: lightgray;
+}
+.nav-bar a:hover {
+  color: dodgerblue;
+}
+.pointer {
+  cursor: pointer;
+}
+.top-section {
+  background: url("../images/danelson_rosa.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 650px;
+  padding: 0;
+}
+.top-section h1 {
+  font-size: 60px;
+  letter-spacing: -6px;
+  margin-top: 0;
+  background-color: rgba(255, 255, 255, .1);
+  text-align: center;
+}
+.top-section-social-media a {
+  color: lightgray;
+}
+.top-section-social-media a:visited {
+  color: lightgray;
+}
+.top-section-social-media a:hover {
+  color: #000;
+}
+.top-section-social-media a:active {
+  color: #000;
+}
+.underline {
+	text-decoration: underline;
+}
+.valid {
+	border: 2px solid #0BD318;
+}
+.white-section {
+  padding: 25px;
+}
